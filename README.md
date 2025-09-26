@@ -62,7 +62,8 @@ int main() {
 ```
 
 ## OUTPUT: 
-![Uploading Screenshot 2025-09-12 085048.png…]()
+<img width="1072" height="279" alt="image" src="https://github.com/user-attachments/assets/38751ada-7dc9-4c09-9e69-8d163931d528" />
+
 
 
 ## RESULT: 
